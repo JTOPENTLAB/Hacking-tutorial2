@@ -6,18 +6,9 @@
 </p>
 Saffron Point 108 ________  wave your Saffron Flag!
 
-# Modules in SP-108
+# SP-108 Wiki (https://github.com/SxNade/SP-108/wiki/Home-SP-108-%F0%9F%95%89)
 
-- Saffron
-- Internet_Access
-- IP_addressing
-- Redirect_custom
-- Fk_i_dunno
-- clear
-- kill_module
-- exit
+## ![SP-180 wiki](https://github.com/SxNade/SP-108/wiki/Home-SP-108-%F0%9F%95%89)
 
 
-## Saffron Point 108 is upcoming improved and more versatile version of Rudrastra(https://github.com/SxNade/Rudrastra/)
-
-## Under Active Development Now!! Stay Tuned Coming out any Time :) :) 
+## Saffron Point 108 is improved and more versatile version of Rudrastra(https://github.com/SxNade/Rudrastra/)
