@@ -10,7 +10,8 @@ Saffron Point 108 ________  wave your Saffron Flag!
 
 # Read the wiki on how to use SP-108
 
-## ![SP-180 wiki](https://github.com/SxNade/SP-108/wiki)
+## [SP-180 wiki](https://github.com/SxNade/SP-108/wiki)
 
+![](https://github.com/SxNade/SP-108/blob/main/images/saffron.png)
 
 ## Saffron Point 108 is improved and more versatile version of Rudrastra(https://github.com/SxNade/Rudrastra/)
